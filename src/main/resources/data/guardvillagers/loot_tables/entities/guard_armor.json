@@ -19,6 +19,26 @@
         },
         {
           "type": "minecraft:item",
+          "name": "musketmod:musket_with_bayonet"
+        },
+       {
+          "type": "minecraft:item",
+          "name": "musketmod:blunderbuss"
+      },
+          {
+          "type": "minecraft:item",
+          "name": "musketmod:pistol"
+        },
+          {
+          "type": "minecraft:item",
+          "name": "musketmod:musket"
+        },
+          {
+          "type": "minecraft:item",
+          "name": "spartanweaponry:warhammer_[iron]"
+        },
+        {
+          "type": "minecraft:item",
           "name": "minecraft:crossbow"
         }
       ],
